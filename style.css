@@ -1,0 +1,53 @@
+body{
+    background: #e6cea7  ;
+}
+
+.container {
+    margin-top: 70px;
+
+}
+.navbar{
+    margin-top: 10px;
+    background: white !important;
+}
+.row{
+    background: white !important;
+    -webkit-border-radius: 3%;
+    -moz-border-radius: 3%;
+    border-radius: 3%;
+}
+.image{
+    width: 100%;
+    -webkit-border-radius: 3%;
+    -moz-border-radius: 3%;
+    border-radius: 3%;
+}
+.col-md-6{
+    padding-left: 0px !important;
+
+}
+.fa{
+    color: #e6cea7;
+}
+.fas{
+    margin-left: 19px;
+    color: #e6cea7;
+    font-size: 19px;
+}
+a{
+    color: black;
+}
+input{
+    width: 30px;
+}
+.counter{
+
+}
+button{
+    width: 25px;
+    border-style: solid;
+    border-width: 1px;
+    background: white;
+    font-weight: bold;
+
+}
